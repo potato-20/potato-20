@@ -21,20 +21,9 @@
 <br>
 <br>
 
-```bash
-mayank@kali:~$ whoami --verbose
-
-┌──────────────────────────────────────────────────────┐
-│ role     :  Security Researcher & Engineer           │
-│ exp      :  ~4 years · pentesting & research         │
-│ focus    :  VAPT · Mobile (iOS/Android) · Web · API  │
-│ building :  automated mobile pentesting agent        │
-│ stack    :  Python · Frida · Burp · Ghidra · Docker  │
-│ systems  :  Kali · Parrot · Debian · macOS · Windows │
-│ location :  India                                    │
-│ status   :  [ ACTIVE ] — open to research & collab   │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="assets/whoami.svg?v=1" width="680" alt="mayank@kali:~$ whoami --verbose — Security Researcher & Engineer · status: ACTIVE"/>
+</p>
 
 <br>
 
