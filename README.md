@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/whoami.svg?v=2" width="680" alt="mayank@kali:~$ whoami --verbose — Security Researcher & Engineer · status: ACTIVE"/>
+  <img src="assets/whoami.svg?v=3" width="100%" alt="mayank@kali:~$ whoami --verbose — Security Researcher & Engineer · status: ACTIVE"/>
 </p>
 
 <br>
