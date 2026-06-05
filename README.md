@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0a3d2a,100:00C853&height=240&section=header&text=MAYANK%20PATEL&fontSize=48&fontColor=00ff41&fontAlignY=38&desc=Information%20Security%20Research%20%26%20Engineering&descAlignY=60&descSize=17&descColor=c9d1d9&animation=fadeIn" width="100%" alt="Mayank Patel — Information Security Research & Engineering"/>
+  <img src="assets/banner.svg?v=1" width="100%" alt="Mayank Patel — Information Security Research & Engineering"/>
 </p>
 
 <br>

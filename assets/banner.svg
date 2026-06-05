@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" role="img" aria-label="Mayank Patel - Information Security Research and Engineering">
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;}.hero{opacity:0;animation:fade 1.1s ease-out .15s forwards;}@keyframes fade{to{opacity:1;}}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#07251a"/></linearGradient>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0a3d2a"/><stop offset="0.55" stop-color="#00C853"/><stop offset="1" stop-color="#00ff41"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="900" height="240" fill="url(#bg)"/>
+<path d="M0,207.3 L12,206.4 L24,205.3 L36,204.1 L48,202.8 L60,201.4 L72,200.0 L84,198.5 L96,197.0 L108,195.4 L120,193.9 L132,192.4 L144,191.0 L156,189.6 L168,188.3 L180,187.0 L192,185.9 L204,184.9 L216,184.1 L228,183.3 L240,182.8 L252,182.3 L264,182.1 L276,182.0 L288,182.1 L300,182.3 L312,182.7 L324,183.3 L336,184.0 L348,184.9 L360,185.9 L372,187.0 L384,188.2 L396,189.5 L408,190.9 L420,192.3 L432,193.8 L444,195.3 L456,196.9 L468,198.4 L480,199.9 L492,201.3 L504,202.7 L516,204.0 L528,205.2 L540,206.3 L552,207.3 L564,208.1 L576,208.8 L588,209.3 L600,209.7 L612,209.9 L624,210.0 L636,209.9 L648,209.6 L660,209.2 L672,208.6 L684,207.8 L696,206.9 L708,205.9 L720,204.8 L732,203.6 L744,202.2 L756,200.8 L768,199.4 L780,197.9 L792,196.3 L804,194.8 L816,193.3 L828,191.8 L840,190.4 L852,189.0 L864,187.8 L876,186.6 L888,185.5 L900,184.6 L900,240 L0,240 Z" fill="#00ff41" opacity="0.12"/>
+<path d="M0,210.0 L12,211.7 L24,213.5 L36,215.1 L48,216.8 L60,218.3 L72,219.7 L84,221.1 L96,222.3 L108,223.3 L120,224.2 L132,224.9 L144,225.5 L156,225.8 L168,226.0 L180,226.0 L192,225.8 L204,225.4 L216,224.8 L228,224.0 L240,223.1 L252,222.0 L264,220.8 L276,219.5 L288,218.0 L300,216.4 L312,214.8 L324,213.1 L336,211.4 L348,209.6 L360,207.9 L372,206.2 L384,204.5 L396,202.9 L408,201.4 L420,200.0 L432,198.7 L444,197.5 L456,196.5 L468,195.6 L480,195.0 L492,194.5 L504,194.1 L516,194.0 L528,194.1 L540,194.3 L552,194.7 L564,195.4 L576,196.1 L588,197.1 L600,198.2 L612,199.5 L624,200.8 L636,202.3 L648,203.9 L660,205.5 L672,207.2 L684,209.0 L696,210.7 L708,212.4 L720,214.1 L732,215.8 L744,217.4 L756,218.9 L768,220.3 L780,221.6 L792,222.7 L804,223.7 L816,224.5 L828,225.2 L840,225.6 L852,225.9 L864,226.0 L876,225.9 L888,225.6 L900,225.1 L900,240 L0,240 Z" fill="url(#w1)" opacity="0.95"/>
+<g class="hero" text-anchor="middle">
+  <text x="450" y="90" font-size="13" letter-spacing="3" fill="#00C853">mayank@forenzy:~$ ./whoami</text>
+  <text x="450" y="146" font-size="52" font-weight="700" letter-spacing="6" fill="#00ff41">MAYANK PATEL</text>
+  <text x="450" y="176" font-size="17" letter-spacing="1.5" fill="#c9d1d9">Information Security Research &amp; Engineering</text>
+</g>
+</svg>
