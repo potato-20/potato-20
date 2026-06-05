@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=640&height=45&lines=Information+Security+Research+%26+Engineering;Mobile+%7C+Web+%7C+API+%7C+Network+Penetration+Testing;I+build+the+tooling+I+pentest+with;Automated+mobile+pentest+agent+%7C+OSS%3A+drozer+%C2%B7+MobSF+%C2%B7+nuclei" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=820&height=45&lines=Information+Security+Research+%26+Engineering;Mobile+%7C+Web+%7C+API+%7C+Network+Penetration+Testing;I+build+the+tooling+I+pentest+with;Automated+mobile+pentest+agent+%7C+OSS%3A+drozer+%C2%B7+MobSF+%C2%B7+nuclei" alt="What I do"/>
 </p>
 
 <br>
