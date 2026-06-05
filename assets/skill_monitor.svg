@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="100%" role="img" aria-label="skill monitor">
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;}.bar{transform:scaleX(0);transform-box:fill-box;transform-origin:left center;animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards;}@keyframes grow{to{transform:scaleX(1);}}.pulse{animation:pulse 2.2s ease-in-out infinite;}@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.3;}}.cur{animation:blink 1.05s step-end infinite;}@keyframes blink{50%{opacity:0;}}.spark{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 2.2s ease-out .3s forwards;}@keyframes draw{to{stroke-dashoffset:0;}}</style>
+<defs><linearGradient id="bg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00C853"/><stop offset="1" stop-color="#00ff41"/></linearGradient></defs>
+<rect x="0" y="0" width="760" height="470" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="20" r="5" fill="#ff5f57"/><circle cx="38" cy="20" r="5" fill="#febc2e"/><circle cx="56" cy="20" r="5" fill="#28c840"/>
+<text x="70" y="24" font-size="13" text-anchor="start" xml:space="preserve"><tspan fill="#00ff41">skillmon</tspan><tspan fill="#6e7681">  ::  </tspan><tspan fill="#c9d1d9">potato-20@kali</tspan></text>
+<text x="740" y="24" font-size="11" text-anchor="end" xml:space="preserve"><tspan fill="#6e7681">uptime </tspan><tspan fill="#00E5FF">4y</tspan><tspan fill="#6e7681">   procs </tspan><tspan fill="#00E5FF">12</tspan></text>
+<line x1="0" y1="40" x2="760" y2="40" stroke="#30363d"/>
+<rect x="14" y="52" width="372" height="300" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="28" y="74" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#8b949e">LANG  LOAD</tspan></text>
+<text x="24" y="109" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">python</tspan></text>
+<rect class="track" x="104" y="98" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="98" width="89" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.00s"/>
+<text x="244" y="109" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">intermediate</tspan></text>
+<text x="24" y="149" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">sql</tspan></text>
+<rect class="track" x="104" y="138" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="138" width="84" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.12s"/>
+<text x="244" y="149" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">intermediate</tspan></text>
+<text x="24" y="189" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">html</tspan></text>
+<rect class="track" x="104" y="178" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="178" width="76" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.24s"/>
+<text x="244" y="189" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">intermediate</tspan></text>
+<text x="24" y="229" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">bash</tspan></text>
+<rect class="track" x="104" y="218" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="218" width="51" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.36s"/>
+<text x="244" y="229" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">basic</tspan></text>
+<text x="24" y="269" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">javascript</tspan></text>
+<rect class="track" x="104" y="258" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="258" width="46" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.48s"/>
+<text x="244" y="269" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">basic</tspan></text>
+<text x="24" y="309" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#00E5FF">php</tspan></text>
+<rect class="track" x="104" y="298" width="128" height="14" rx="7" fill="#21262d"/>
+<rect class="bar" x="104" y="298" width="40" height="14" rx="7" fill="url(#bg1)" style="animation-delay:0.60s"/>
+<text x="244" y="309" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">basic</tspan></text>
+<rect x="398" y="52" width="348" height="300" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="412" y="74" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#8b949e">PROC  ::  TOOLS</tspan></text>
+<text x="640" y="74" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">PID</tspan><tspan fill="#6e7681">   STATE</tspan></text>
+<text x="412" y="108" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="108" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">frida</tspan></text>
+<text x="642" y="108" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1337</tspan></text>
+<text x="700" y="108" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="129" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="129" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">objection</tspan></text>
+<text x="642" y="129" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1338</tspan></text>
+<text x="700" y="129" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="150" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="150" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">mobsf</tspan></text>
+<text x="642" y="150" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1339</tspan></text>
+<text x="700" y="150" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="171" font-size="12" fill="#6e7681">○</text>
+<text x="430" y="171" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">drozer</tspan></text>
+<text x="642" y="171" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1340</tspan></text>
+<text x="700" y="171" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">idle</tspan></text>
+<text x="412" y="192" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="192" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">pymobiledevice3</tspan></text>
+<text x="642" y="192" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1341</tspan></text>
+<text x="700" y="192" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="213" font-size="12" fill="#6e7681">○</text>
+<text x="430" y="213" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">ghidra</tspan></text>
+<text x="642" y="213" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1342</tspan></text>
+<text x="700" y="213" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">idle</tspan></text>
+<text x="412" y="234" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="234" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">zaproxy</tspan></text>
+<text x="642" y="234" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1343</tspan></text>
+<text x="700" y="234" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="255" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="255" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">nuclei</tspan></text>
+<text x="642" y="255" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1344</tspan></text>
+<text x="700" y="255" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="276" font-size="12" fill="#6e7681">○</text>
+<text x="430" y="276" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">nmap</tspan></text>
+<text x="642" y="276" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1345</tspan></text>
+<text x="700" y="276" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">idle</tspan></text>
+<text x="412" y="297" font-size="12" fill="#6e7681">○</text>
+<text x="430" y="297" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">radare2</tspan></text>
+<text x="642" y="297" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1346</tspan></text>
+<text x="700" y="297" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">idle</tspan></text>
+<text x="412" y="318" font-size="12" fill="#00C853" class="pulse">●</text>
+<text x="430" y="318" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">lief</tspan></text>
+<text x="642" y="318" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1347</tspan></text>
+<text x="700" y="318" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#00C853">active</tspan></text>
+<text x="412" y="339" font-size="12" fill="#6e7681">○</text>
+<text x="430" y="339" font-size="12" text-anchor="start" xml:space="preserve"><tspan fill="#c9d1d9">jadx</tspan></text>
+<text x="642" y="339" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">1348</tspan></text>
+<text x="700" y="339" font-size="10" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">idle</tspan></text>
+<rect x="14" y="364" width="732" height="90" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="28" y="386" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#8b949e">RESEARCH ACTIVITY</tspan></text>
+<polyline class="spark" points="28,426 46,430 64,423 82,428 100,418 118,426 136,433 154,428 172,421 190,411 209,423 227,430 245,426 263,416 281,406 299,418 317,428 335,423 353,414 371,421 389,428 407,418 425,409 443,423 461,430 479,426 497,416 515,404 533,418 551,426 570,421 588,428 606,423 624,414 642,426 660,430 678,421 696,411 714,423 732,428" fill="none" stroke="#00ff41" stroke-width="1.6"/>
+<text x="470" y="386" font-size="11" text-anchor="start" xml:space="preserve"><tspan fill="#6e7681">tools </tspan><tspan fill="#00E5FF">12</tspan><tspan fill="#6e7681">  ·  platforms </tspan><tspan fill="#00E5FF">3</tspan><tspan fill="#6e7681">  ·  mobile-agent </tspan><tspan fill="#00ff41">v2</tspan></text>
+</svg>

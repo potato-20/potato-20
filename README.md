@@ -1,0 +1,206 @@
+<!--
+  GitHub profile README for potato-20.  Updated 2026-06-05.
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0a3d2a,100:00C853&height=240&section=header&text=MAYANK%20PATEL&fontSize=48&fontColor=00ff41&fontAlignY=38&desc=Information%20Security%20Research%20%26%20Engineering&descAlignY=60&descSize=17&descColor=c9d1d9&animation=fadeIn" width="100%" alt="Mayank Patel — Information Security Research & Engineering"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=640&height=45&lines=Information+Security+Research+%26+Engineering;Mobile+%7C+Web+%7C+API+%7C+Network+Penetration+Testing;I+build+the+tooling+I+pentest+with;Automated+mobile+pentest+agent+%7C+OSS%3A+drozer+%C2%B7+MobSF+%C2%B7+nuclei" alt="What I do"/>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank---patel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:iammayank2082@gmail.com"><img src="https://img.shields.io/badge/iammayank2082%40gmail.com-Email-FF1744?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@myank2082"><img src="https://img.shields.io/badge/Medium-Writing-00C853?style=flat-square&labelColor=0d1117&logo=medium&logoColor=white" alt="Medium"/></a>
+  &nbsp;&nbsp;
+  <a href="https://forenzy.net/blog/"><img src="https://img.shields.io/badge/Forenzy-Blog-FFB300?style=flat-square&labelColor=0d1117&logo=rss&logoColor=white" alt="Forenzy"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linktr.ee/myank2082"><img src="https://img.shields.io/badge/Linktree-All_Links-00C853?style=flat-square&labelColor=0d1117&logo=linktree&logoColor=white" alt="Linktree"/></a>
+</p>
+
+<br>
+<br>
+
+```bash
+mayank@forenzy:~$ whoami --verbose
+
+┌──────────────────────────────────────────────────────┐
+│ role     :  Security Researcher & Engineer           │
+│ org      :  Forenzy Network  ·  ~4 years             │
+│ focus    :  VAPT · Mobile (iOS/Android) · Web · API  │
+│ building :  automated mobile pentesting agent        │
+│ stack    :  Python · Frida · Burp · Ghidra · Docker  │
+│ systems  :  Kali · Parrot · Debian · macOS · Windows │
+│ location :  Vadodara, India                          │
+│ status   :  [ ACTIVE ] — open to research & collab   │
+└──────────────────────────────────────────────────────┘
+```
+
+<br>
+
+> Security researcher and engineer at **Forenzy Network**, where I run manual and
+> automated penetration tests across **web, API, network, and mobile** targets for
+> government and enterprise clients. I build security tooling in Python — currently
+> building an **automated mobile (Android & iOS) penetration-testing agent** — and
+> I contribute upstream to the tools I actually use: **drozer, MobSF, nuclei-templates**.
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 01 ]`&nbsp;&nbsp; what i do
+
+<br>
+
+- Manual + automated **VAPT** across web, API, network, and mobile, under direct CTO supervision
+- Identify **critical & high-severity findings across 20+ client engagements** and deliver remediation guidance
+- Build **Python / Docker** security-testing automation for DAST & SAST pipelines
+- Threat modeling, risk assessment, and **digital-forensics** investigations
+- Triage **1,000+ security events** from DevSecOps tooling; deploy & tune **Cloudflare WAF**
+- Operate against **NIST · ISO 27001/27017 · PCI DSS · GDPR** frameworks
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 02 ]`&nbsp;&nbsp; flagship project
+
+<br>
+
+**Autonomous Mobile Penetration Testing Agent.** An LLM-orchestrated pipeline
+(**LangGraph + Claude**) that runs static, dynamic, and network assessments across
+**Android & iOS**, with a human checkpoint at every stage gate.
+
+- **29 static analyzers** — manifest, secrets, crypto-misuse, native libs, Firebase rules, trackers, deep-links, WebView, and **Ghidra headless** decompilation
+- **21 iOS Frida hooks** — SSL unpinning, jailbreak bypass, keychain/biometric capture, NSURLSession & WKWebView logging, anti-debug bypass
+- **20 network / API testers** — IDOR, injection, mass-assignment, race conditions, auth/session, TLS, plus **ZAP & mitmproxy** integration
+- Findings mapped to **OWASP MASTG / NIAP** · exposed over an **MCP server** · runs on WSL2, Windows, macOS & Linux
+
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-in_active_development-FFB300?style=for-the-badge&labelColor=0d1117" alt="status: in active development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/source-private-8b949e?style=for-the-badge&labelColor=0d1117" alt="source: private"/>
+</p>
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 03 ]`&nbsp;&nbsp; open-source contributions
+
+<br>
+
+> Upstream fixes and detections for the tools I rely on day to day — **7 PRs across 5 projects, 1 merged.**
+
+<br>
+
+| Project | PR | Contribution | State |
+|---|---|---|:--:|
+| **sqlmap** | [#6066](https://github.com/sqlmapproject/sqlmap/pull/6066) | Fix no-op `chardet` patch in `dirtyPatches()` | **merged ✓** |
+| **ReversecLabs / drozer** | [#500](https://github.com/ReversecLabs/drozer/pull/500) | Fix infinite loop in `fs.md5sum` / `fs.sha1sum` on Python 3 | open |
+| **ReversecLabs / drozer** | [#499](https://github.com/ReversecLabs/drozer/pull/499) | Add initial `pytest` unit-test suite + CI | open |
+| **MobSF** | [#2618](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2618) | Android WebView mixed-content detection rule | open |
+| **nuclei-templates** | [#16339](https://github.com/projectdiscovery/nuclei-templates/pull/16339) | Homarr Dashboard exposed-panel detection template | open |
+| **nmap** | [#3379](https://github.com/nmap/nmap/pull/3379) | NATS server version detection (+ MongoDB mis-ID fix) | open |
+| **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 04 ]`&nbsp;&nbsp; skills
+
+<br>
+
+<p align="center">
+  <img src="assets/skill_monitor.svg?v=3" width="100%" alt="skillmon — language load meters, tool process list, and research activity"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frida-00BCD4?style=flat-square" alt="Frida"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/objection-546E7A?style=flat-square" alt="objection"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MobSF-FF6F00?style=flat-square" alt="MobSF"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/drozer-D32F2F?style=flat-square" alt="drozer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/pymobiledevice3-8E8E93?style=flat-square" alt="pymobiledevice3"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square&logo=ghidra&logoColor=white" alt="Ghidra"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+</p>
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 05 ]`&nbsp;&nbsp; community & education
+
+<br>
+
+Cybersecurity awareness educator (volunteer) with **Cyber N GO Charitable Trust** —
+designing and delivering offensive-security workshops and digital-safety programs:
+
+- **"Cyber Guard" Offensive Security Workshop** — The Maharaja Sayajirao University of Baroda, with a Government of Gujarat skilling initiative
+- **"Cyber Ninja" digital-safety program** — Microsoft GIVE 2024, in collaboration with academic and industry partners
+- Community cyber-awareness reaching **10k+ weekly**, and support to **law-enforcement cyber-cell investigations**
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
+
+<br>
+
+### `[ 06 ]`&nbsp;&nbsp; stats
+
+<br>
+
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potato-20&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+</p>
+
+<br>
+
+<p align="center"><sub>Built in the open · tested only with authorization · Vadodara, India</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,55:0a3d2a,100:0D1117&height=140&section=footer" width="100%" alt="footer"/>
+</p>
