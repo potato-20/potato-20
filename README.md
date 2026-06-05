@@ -175,7 +175,7 @@ mayank@kali:~$ whoami --verbose
 
 <br>
 
-<p align="center"><sub>Built in the open · tested only with authorization · Vadodara, India</sub></p>
+<p align="center"><sub>Built in the open · tested only with authorization · India</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,55:0a3d2a,100:0D1117&height=140&section=footer" width="100%" alt="footer"/>
