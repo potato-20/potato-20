@@ -3,12 +3,6 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg?v=1" width="100%" alt="Mayank Patel — Information Security Research & Engineering"/>
-</p>
-
-<br>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C853&background=00000000&center=true&vCenter=true&width=640&height=45&lines=Information+Security+Research+%26+Engineering;Mobile+%7C+Web+%7C+API+%7C+Network+Penetration+Testing;I+build+the+tooling+I+pentest+with;Automated+mobile+pentest+agent+%7C+OSS%3A+drozer+%C2%B7+MobSF+%C2%B7+nuclei" alt="What I do"/>
 </p>
 
@@ -21,8 +15,6 @@
   &nbsp;&nbsp;
   <a href="https://medium.com/@myank2082"><img src="https://img.shields.io/badge/Medium-Writing-00C853?style=flat-square&labelColor=0d1117&logo=medium&logoColor=white" alt="Medium"/></a>
   &nbsp;&nbsp;
-  <a href="https://forenzy.net/blog/"><img src="https://img.shields.io/badge/Forenzy-Blog-FFB300?style=flat-square&labelColor=0d1117&logo=rss&logoColor=white" alt="Forenzy"/></a>
-  &nbsp;&nbsp;
   <a href="https://linktr.ee/myank2082"><img src="https://img.shields.io/badge/Linktree-All_Links-00C853?style=flat-square&labelColor=0d1117&logo=linktree&logoColor=white" alt="Linktree"/></a>
 </p>
 
@@ -30,11 +22,11 @@
 <br>
 
 ```bash
-mayank@forenzy:~$ whoami --verbose
+mayank@kali:~$ whoami --verbose
 
 ┌──────────────────────────────────────────────────────┐
 │ role     :  Security Researcher & Engineer           │
-│ org      :  Forenzy Network  ·  ~4 years             │
+│ exp      :  ~4 years · pentesting & research         │
 │ focus    :  VAPT · Mobile (iOS/Android) · Web · API  │
 │ building :  automated mobile pentesting agent        │
 │ stack    :  Python · Frida · Burp · Ghidra · Docker  │
@@ -46,7 +38,7 @@ mayank@forenzy:~$ whoami --verbose
 
 <br>
 
-> Security researcher and engineer at **Forenzy Network**, where I run manual and
+> Security researcher and engineer running manual and
 > automated penetration tests across **web, API, network, and mobile** targets for
 > government and enterprise clients. I build security tooling in Python — currently
 > building an **automated mobile (Android & iOS) penetration-testing agent** — and
