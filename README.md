@@ -31,7 +31,7 @@ mayank@kali:~$ whoami --verbose
 │ building :  automated mobile pentesting agent        │
 │ stack    :  Python · Frida · Burp · Ghidra · Docker  │
 │ systems  :  Kali · Parrot · Debian · macOS · Windows │
-│ location :  Vadodara, India                          │
+│ location :  India                                    │
 │ status   :  [ ACTIVE ] — open to research & collab   │
 └──────────────────────────────────────────────────────┘
 ```
