@@ -147,7 +147,7 @@ mayank@kali:~$ whoami --verbose
   &nbsp;
   <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square&logo=ghidra&logoColor=white" alt="Ghidra"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-5C4EF0?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
 </p>
@@ -159,25 +159,7 @@ mayank@kali:~$ whoami --verbose
 
 <br>
 
-### `[ 05 ]`&nbsp;&nbsp; community & education
-
-<br>
-
-Cybersecurity awareness educator (volunteer) with **Cyber N GO Charitable Trust** —
-designing and delivering offensive-security workshops and digital-safety programs:
-
-- **"Cyber Guard" Offensive Security Workshop** — The Maharaja Sayajirao University of Baroda, with a Government of Gujarat skilling initiative
-- **"Cyber Ninja" digital-safety program** — Microsoft GIVE 2024, in collaboration with academic and industry partners
-- Community cyber-awareness reaching **10k+ weekly**, and support to **law-enforcement cyber-cell investigations**
-
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00C853&height=2&section=header" width="100%" alt="---"/>
-
-<br>
-
-### `[ 06 ]`&nbsp;&nbsp; stats
+### `[ 05 ]`&nbsp;&nbsp; stats
 
 <br>
 
