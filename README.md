@@ -101,18 +101,20 @@ mayank@kali:~$ whoami --verbose
 
 <br>
 
-> Upstream fixes and detections for the tools I rely on day to day — **7 PRs across 5 projects, 1 merged.**
+> Upstream fixes and detections for the tools I rely on day to day — **9 PRs across 7 projects, 2 merged.**
 
 <br>
 
 | Project | PR | Contribution | State |
 |---|---|---|:--:|
+| **prowler** | [#11471](https://github.com/prowler-cloud/prowler/pull/11471) | AWS FSBP **ELB.4** — ALB drop-invalid-header-fields check | **merged ✓** |
 | **sqlmap** | [#6066](https://github.com/sqlmapproject/sqlmap/pull/6066) | Fix no-op `chardet` patch in `dirtyPatches()` | **merged ✓** |
 | **ReversecLabs / drozer** | [#500](https://github.com/ReversecLabs/drozer/pull/500) | Fix infinite loop in `fs.md5sum` / `fs.sha1sum` on Python 3 | open |
 | **ReversecLabs / drozer** | [#499](https://github.com/ReversecLabs/drozer/pull/499) | Add initial `pytest` unit-test suite + CI | open |
 | **MobSF** | [#2618](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2618) | Android WebView mixed-content detection rule | open |
 | **nuclei-templates** | [#16339](https://github.com/projectdiscovery/nuclei-templates/pull/16339) | Homarr Dashboard exposed-panel detection template | open |
 | **nmap** | [#3379](https://github.com/nmap/nmap/pull/3379) | NATS server version detection (+ MongoDB mis-ID fix) | open |
+| **NSA / ghidra** | [#9249](https://github.com/NationalSecurityAgency/ghidra/pull/9249) | Sanitize generated label name in AutoRenameSimpleLabels | open |
 | **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
 
 <br>
@@ -180,7 +182,7 @@ designing and delivering offensive-security workshops and digital-safety program
 <br>
 
 <p align="center">
-  <img src="assets/stats.svg" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+  <img src="assets/stats.svg?v=2" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
 </p>
 
 <br>
