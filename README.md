@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/whoami.svg?v=3" width="100%" alt="mayank@kali:~$ whoami --verbose — Security Researcher & Engineer · status: ACTIVE"/>
+  <img src="assets/whoami.svg?v=4" width="100%" alt="mayank@kali:~$ whoami --verbose — Security Researcher & Engineer · status: ACTIVE"/>
 </p>
 
 <br>
@@ -120,7 +120,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/skill_monitor.svg?v=3" width="100%" alt="skillmon — language load meters, tool process list, and research activity"/>
+  <img src="assets/skill_monitor.svg?v=4" width="100%" alt="skillmon — language load meters, tool process list, and research activity"/>
 </p>
 
 <br>
@@ -155,7 +155,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/stats.svg?v=3" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+  <img src="assets/stats.svg?v=4" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
 </p>
 
 <br>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 320" width="100%" role="img" aria-label="whoami">
 <style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;}.g{opacity:0;animation:fade 1s ease-out .1s forwards;}@keyframes fade{to{opacity:1;}}.pulse{animation:pulse 2.1s ease-in-out infinite;}@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.62;}}</style>
 <defs><filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
@@ -11,24 +12,24 @@
 <text x="148" y="88" font-size="15" fill="#c9d1d9">Security Researcher &amp; Engineer</text>
 <text x="30" y="118" font-size="15" fill="#00E5FF">exp</text>
 <text x="128" y="118" font-size="15" fill="#6e7681">:</text>
-<text x="148" y="118" font-size="15" fill="#c9d1d9">4 years · pentesting &amp; research</text>
+<text x="148" y="118" font-size="15" fill="#c9d1d9">4 years &#183; pentesting &amp; research</text>
 <text x="30" y="148" font-size="15" fill="#00E5FF">focus</text>
 <text x="128" y="148" font-size="15" fill="#6e7681">:</text>
-<text x="148" y="148" font-size="15" fill="#c9d1d9">VAPT · Mobile (iOS/Android) · Web · API</text>
+<text x="148" y="148" font-size="15" fill="#c9d1d9">VAPT &#183; Mobile (iOS/Android) &#183; Web &#183; API</text>
 <text x="30" y="178" font-size="15" fill="#00E5FF">building</text>
 <text x="128" y="178" font-size="15" fill="#6e7681">:</text>
 <text x="148" y="178" font-size="15" fill="#c9d1d9">automated mobile pentesting agent</text>
 <text x="30" y="208" font-size="15" fill="#00E5FF">stack</text>
 <text x="128" y="208" font-size="15" fill="#6e7681">:</text>
-<text x="148" y="208" font-size="15" fill="#c9d1d9">Python · Frida · Burp · Ghidra · Docker</text>
+<text x="148" y="208" font-size="15" fill="#c9d1d9">Python &#183; Frida &#183; Burp &#183; Ghidra &#183; Docker</text>
 <text x="30" y="238" font-size="15" fill="#00E5FF">systems</text>
 <text x="128" y="238" font-size="15" fill="#6e7681">:</text>
-<text x="148" y="238" font-size="15" fill="#c9d1d9">Kali · Parrot · Debian · macOS · Windows</text>
+<text x="148" y="238" font-size="15" fill="#c9d1d9">Kali &#183; Parrot &#183; Debian &#183; macOS &#183; Windows</text>
 <text x="30" y="268" font-size="15" fill="#00E5FF">location</text>
 <text x="128" y="268" font-size="15" fill="#6e7681">:</text>
 <text x="148" y="268" font-size="15" fill="#c9d1d9">India</text>
 <text x="30" y="298" font-size="15" fill="#00E5FF">status</text>
 <text x="128" y="298" font-size="15" fill="#6e7681">:</text>
 <text x="148" y="298" font-size="15" font-weight="700" fill="#39ff14" filter="url(#glow)" class="pulse">[ ACTIVE ]</text>
-<text x="244" y="298" font-size="15" fill="#c9d1d9">— open to research &amp; collab</text>
+<text x="244" y="298" font-size="15" fill="#c9d1d9">&#8212; open to research &amp; collab</text>
 </g></svg>
