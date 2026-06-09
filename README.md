@@ -90,7 +90,7 @@
 
 <br>
 
-> Upstream fixes and detections for the tools I rely on day to day — **13 PRs across 10 projects, 4 merged.**
+> Upstream fixes and detections for the tools I rely on day to day — **13 PRs across 10 projects, 5 merged.**
 
 <br>
 
@@ -100,13 +100,13 @@
 | **nuclei-templates** | [#16339](https://github.com/projectdiscovery/nuclei-templates/pull/16339) | Homarr Dashboard exposed-panel detection template | **merged ✓** |
 | **sqlmap** | [#6066](https://github.com/sqlmapproject/sqlmap/pull/6066) | Fix no-op `chardet` patch in `dirtyPatches()` | **merged ✓** |
 | **testssl.sh** | [#3049](https://github.com/testssl/testssl.sh/pull/3049) | Fix `--mx host:port` parsing + no-MX message | **merged ✓** |
+| **testssl.sh** | [#3050](https://github.com/testssl/testssl.sh/pull/3050) | Report additional modern security headers (INFO) | **merged ✓** |
 | **ReversecLabs / drozer** | [#500](https://github.com/ReversecLabs/drozer/pull/500) | Fix infinite loop in `fs.md5sum` / `fs.sha1sum` on Python 3 | open |
 | **ReversecLabs / drozer** | [#499](https://github.com/ReversecLabs/drozer/pull/499) | Add initial `pytest` unit-test suite + CI | open |
 | **MobSF** | [#2618](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2618) | Android WebView mixed-content detection rule | open |
 | **nmap** | [#3379](https://github.com/nmap/nmap/pull/3379) | NATS server version detection (+ MongoDB mis-ID fix) | open |
 | **NSA / ghidra** | [#9249](https://github.com/NationalSecurityAgency/ghidra/pull/9249) | Sanitize generated label name in AutoRenameSimpleLabels | open |
 | **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
-| **testssl.sh** | [#3050](https://github.com/testssl/testssl.sh/pull/3050) | Report additional modern security headers (INFO) | open |
 | **OWASP CRS** | [#4655](https://github.com/coreruleset/coreruleset/pull/4655) | Decode URL-encoded payloads in header RCE rules | open |
 | **SigmaHQ / sigma** | [#6055](https://github.com/SigmaHQ/sigma/pull/6055) | Detect content-discovery tool User-Agents (ffuf/gobuster) | open |
 
@@ -157,7 +157,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/stats.svg?v=8" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+  <img src="assets/stats.svg?v=9" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
 </p>
 
 <br>
