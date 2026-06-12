@@ -110,6 +110,14 @@
 | **OWASP CRS** | [#4655](https://github.com/coreruleset/coreruleset/pull/4655) | Decode URL-encoded payloads in header RCE rules | open |
 | **SigmaHQ / sigma** | [#6055](https://github.com/SigmaHQ/sigma/pull/6055) | Detect content-discovery tool User-Agents (ffuf/gobuster) | open |
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution grid" />
+  </picture>
+</p>
+
 <br>
 <br>
 
@@ -164,16 +172,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=potato-20&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution grid" />
-  </picture>
 </p>
 
 <br>
