@@ -90,7 +90,7 @@
 
 <br>
 
-> Upstream fixes and detections for the tools I rely on day to day — **13 PRs across 10 projects, 6 merged.**
+> Upstream fixes and detections for the tools I rely on day to day — **14 PRs across 10 projects, 6 merged.**
 
 <br>
 
@@ -111,6 +111,7 @@
 | **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
 | **OWASP CRS** | [#4655](https://github.com/coreruleset/coreruleset/pull/4655) | Decode URL-encoded payloads in header RCE rules | open |
 | **SigmaHQ / sigma** | [#6055](https://github.com/SigmaHQ/sigma/pull/6055) | Detect content-discovery tool User-Agents (ffuf/gobuster) | open |
+| **testssl.sh** | [#3060](https://github.com/testssl/testssl.sh/pull/3060) | HSTS preload-list check via hstspreload.org | open |
 
 </div>
 
@@ -169,7 +170,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/stats.svg?v=10" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+  <img src="assets/stats.svg?v=11" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
 </p>
 
 <br>
