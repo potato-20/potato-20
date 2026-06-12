@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # future-proof (Node20 deprecation)
+
 jobs:
   snake:
     runs-on: ubuntu-latest
@@ -20,8 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-light&color_snake=#00C853&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/snake-dark.svg?palette=github-dark&color_snake=#39ff14&color_dots=#161b22,#01311f,#005f2e,#00C853,#39ff14
+            dist/snake.svg?palette=github-light&color_snake=#5C4EF0&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/snake-dark.svg?palette=github-dark&color_snake=#5C4EF0&color_dots=#161b22,#01311f,#005f2e,#00C853,#39ff14
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
