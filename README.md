@@ -94,6 +94,8 @@
 
 <br>
 
+<div align="center">
+
 | Project | PR | Contribution | State |
 |---|---|---|:--:|
 | **NSA / ghidra** | [#9249](https://github.com/NationalSecurityAgency/ghidra/pull/9249) | Sanitize generated label name in AutoRenameSimpleLabels | **merged ✓** |
@@ -109,6 +111,8 @@
 | **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
 | **OWASP CRS** | [#4655](https://github.com/coreruleset/coreruleset/pull/4655) | Decode URL-encoded payloads in header RCE rules | open |
 | **SigmaHQ / sigma** | [#6055](https://github.com/SigmaHQ/sigma/pull/6055) | Detect content-discovery tool User-Agents (ffuf/gobuster) | open |
+
+</div>
 
 <p align="center">
   <picture>
