@@ -90,7 +90,9 @@
 
 <br>
 
-> Upstream fixes and detections for the tools I rely on day to day — **14 PRs across 10 projects, 6 merged.**
+> **I don't just use security tools — I fix and extend them.** <br>
+> **14 PRs · 10 projects · 6 merged** — including upstream merges into NSA **Ghidra**, **Prowler**, ProjectDiscovery **nuclei**, **sqlmap** & **testssl**. <br>
+> Reaching across **mobile · web · cloud · reverse-engineering · TLS · WAF · SIEM** — patches where it counts.
 
 <br>
 
