@@ -168,6 +168,16 @@
 
 <br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potato-20/potato-20/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/potato-20/potato-20/output/snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution grid" />
+  </picture>
+</p>
+
+<br>
+
 <p align="center"><sub>Built in the open · tested only with authorization · India</sub></p>
 
 <p align="center">
