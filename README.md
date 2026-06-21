@@ -178,7 +178,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potato-20&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+  <img src="https://ghchart.rshah.org/00ff41/potato-20" width="100%" alt="GitHub contribution calendar — full year heatmap"/>
 </p>
 
 <br>
