@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 248" width="100%" role="img" aria-label="commit activity chart">
+<defs>
+  <linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#00ff41" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00ff41" stop-opacity="0.02"/>
+  </linearGradient>
+</defs>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#8b949e;}</style>
+<rect x="0" y="0" width="760" height="248" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="760" height="30" rx="12" fill="#161b22"/>
+<rect x="0" y="18" width="760" height="12" fill="#161b22"/>
+<circle cx="20" cy="15" r="5" fill="#ff5f57"/>
+<circle cx="38" cy="15" r="5" fill="#febc2e"/>
+<circle cx="56" cy="15" r="5" fill="#28c840"/>
+<text x="70" y="20" font-size="12" xml:space="preserve"><tspan fill="#00ff41">commit-activity</tspan><tspan fill="#8b949e">  ::  potato-20@kali  &#183;  Mar&#8211;Jun 2026  &#183;  283 total</tspan></text>
+<line x1="72" y1="192.0" x2="742" y2="192.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="196.0" font-size="10" text-anchor="end">0</text>
+<line x1="72" y1="162.4" x2="742" y2="162.4" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="166.4" font-size="10" text-anchor="end">7</text>
+<line x1="72" y1="132.8" x2="742" y2="132.8" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="136.8" font-size="10" text-anchor="end">14</text>
+<line x1="72" y1="103.2" x2="742" y2="103.2" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="107.2" font-size="10" text-anchor="end">21</text>
+<line x1="72" y1="73.6" x2="742" y2="73.6" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="77.6" font-size="10" text-anchor="end">28</text>
+<line x1="72" y1="44.0" x2="742" y2="44.0" stroke="#21262d" stroke-width="1"/>
+<text x="66" y="48.0" font-size="10" text-anchor="end">35</text>
+<line x1="145.6" y1="44" x2="145.6" y2="192" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="366.5" y1="44" x2="366.5" y2="192" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="594.7" y1="44" x2="594.7" y2="192" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
+<path d="M 72.0,192 L 72.0,137.0 L 79.4,192.0 L 86.7,175.1 L 94.1,192.0 L 101.5,158.2 L 108.8,192.0 L 116.2,183.5 L 123.5,48.2 L 130.9,175.1 L 138.3,192.0 L 145.6,192.0 L 153.0,192.0 L 160.4,192.0 L 167.7,192.0 L 175.1,192.0 L 182.4,192.0 L 189.8,192.0 L 197.2,192.0 L 204.5,124.3 L 211.9,175.1 L 219.3,192.0 L 226.6,192.0 L 234.0,192.0 L 241.3,192.0 L 248.7,73.6 L 256.1,187.8 L 263.4,192.0 L 270.8,192.0 L 278.2,137.0 L 285.5,192.0 L 292.9,192.0 L 300.2,179.3 L 307.6,187.8 L 315.0,192.0 L 322.3,192.0 L 329.7,192.0 L 337.1,192.0 L 344.4,187.8 L 351.8,192.0 L 359.1,192.0 L 366.5,192.0 L 373.9,192.0 L 381.2,192.0 L 388.6,192.0 L 396.0,192.0 L 403.3,99.0 L 410.7,128.6 L 418.0,179.3 L 425.4,166.6 L 432.8,166.6 L 440.1,183.5 L 447.5,192.0 L 454.9,192.0 L 462.2,192.0 L 469.6,179.3 L 476.9,187.8 L 484.3,192.0 L 491.7,162.4 L 499.0,179.3 L 506.4,192.0 L 513.8,192.0 L 521.1,187.8 L 528.5,192.0 L 535.8,192.0 L 543.2,192.0 L 550.6,192.0 L 557.9,192.0 L 565.3,153.9 L 572.7,192.0 L 580.0,192.0 L 587.4,192.0 L 594.7,192.0 L 602.1,170.9 L 609.5,192.0 L 616.8,153.9 L 624.2,166.6 L 631.6,107.4 L 638.9,192.0 L 646.3,175.1 L 653.6,166.6 L 661.0,166.6 L 668.4,187.8 L 675.7,137.0 L 683.1,183.5 L 690.5,192.0 L 697.8,192.0 L 705.2,192.0 L 712.5,187.8 L 719.9,192.0 L 727.3,192.0 L 734.6,192.0 L 742.0,192.0 L 742.0,192 Z" fill="url(#ag)"/>
+<polyline points="72.0,137.0 79.4,192.0 86.7,175.1 94.1,192.0 101.5,158.2 108.8,192.0 116.2,183.5 123.5,48.2 130.9,175.1 138.3,192.0 145.6,192.0 153.0,192.0 160.4,192.0 167.7,192.0 175.1,192.0 182.4,192.0 189.8,192.0 197.2,192.0 204.5,124.3 211.9,175.1 219.3,192.0 226.6,192.0 234.0,192.0 241.3,192.0 248.7,73.6 256.1,187.8 263.4,192.0 270.8,192.0 278.2,137.0 285.5,192.0 292.9,192.0 300.2,179.3 307.6,187.8 315.0,192.0 322.3,192.0 329.7,192.0 337.1,192.0 344.4,187.8 351.8,192.0 359.1,192.0 366.5,192.0 373.9,192.0 381.2,192.0 388.6,192.0 396.0,192.0 403.3,99.0 410.7,128.6 418.0,179.3 425.4,166.6 432.8,166.6 440.1,183.5 447.5,192.0 454.9,192.0 462.2,192.0 469.6,179.3 476.9,187.8 484.3,192.0 491.7,162.4 499.0,179.3 506.4,192.0 513.8,192.0 521.1,187.8 528.5,192.0 535.8,192.0 543.2,192.0 550.6,192.0 557.9,192.0 565.3,153.9 572.7,192.0 580.0,192.0 587.4,192.0 594.7,192.0 602.1,170.9 609.5,192.0 616.8,153.9 624.2,166.6 631.6,107.4 638.9,192.0 646.3,175.1 653.6,166.6 661.0,166.6 668.4,187.8 675.7,137.0 683.1,183.5 690.5,192.0 697.8,192.0 705.2,192.0 712.5,187.8 719.9,192.0 727.3,192.0 734.6,192.0 742.0,192.0" fill="none" stroke="#00ff41" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="72.0" cy="137.0" r="2.5" fill="#00ff41"/>
+<circle cx="101.5" cy="158.2" r="2.5" fill="#00ff41"/>
+<circle cx="123.5" cy="48.2" r="2.5" fill="#00ff41"/>
+<circle cx="204.5" cy="124.3" r="2.5" fill="#00ff41"/>
+<circle cx="248.7" cy="73.6" r="2.5" fill="#00ff41"/>
+<circle cx="278.2" cy="137.0" r="2.5" fill="#00ff41"/>
+<circle cx="403.3" cy="99.0" r="2.5" fill="#00ff41"/>
+<circle cx="410.7" cy="128.6" r="2.5" fill="#00ff41"/>
+<circle cx="425.4" cy="166.6" r="2.5" fill="#00ff41"/>
+<circle cx="432.8" cy="166.6" r="2.5" fill="#00ff41"/>
+<circle cx="491.7" cy="162.4" r="2.5" fill="#00ff41"/>
+<circle cx="565.3" cy="153.9" r="2.5" fill="#00ff41"/>
+<circle cx="602.1" cy="170.9" r="2.5" fill="#00ff41"/>
+<circle cx="616.8" cy="153.9" r="2.5" fill="#00ff41"/>
+<circle cx="624.2" cy="166.6" r="2.5" fill="#00ff41"/>
+<circle cx="631.6" cy="107.4" r="2.5" fill="#00ff41"/>
+<circle cx="653.6" cy="166.6" r="2.5" fill="#00ff41"/>
+<circle cx="661.0" cy="166.6" r="2.5" fill="#00ff41"/>
+<circle cx="675.7" cy="137.0" r="2.5" fill="#00ff41"/>
+<line x1="72" y1="192" x2="742" y2="192" stroke="#30363d" stroke-width="1"/>
+<text x="105.1" y="206" font-size="11" text-anchor="middle">Mar '26</text>
+<text x="252.4" y="206" font-size="11" text-anchor="middle">Apr</text>
+<text x="476.9" y="206" font-size="11" text-anchor="middle">May</text>
+<text x="664.7" y="206" font-size="11" text-anchor="middle">Jun</text>
+<text x="407.0" y="222" font-size="10" text-anchor="middle" fill="#6e7681">commit date</text>
+<text x="11" y="118.0" font-size="10" text-anchor="middle" fill="#6e7681" transform="rotate(-90 11 118.0)">commits / day</text>
+<line x1="72" y1="44" x2="72" y2="192" stroke="#30363d" stroke-width="1"/>
+</svg>
