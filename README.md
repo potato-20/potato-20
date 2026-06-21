@@ -178,7 +178,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/activity.svg?v=2" width="100%" alt="commit activity — commits per day Mar–Jun 2026"/>
+  <img src="assets/activity_chart.svg" width="100%" alt="commit activity — commits per day Mar–Jun 2026"/>
 </p>
 
 <br>
