@@ -91,7 +91,7 @@
 <br>
 
 > **I don't just use security tools — I fix and extend them.** <br>
-> **14 PRs · 10 projects · 9 merged** — including upstream merges into NSA **Ghidra**, **Prowler**, ProjectDiscovery **nuclei**, **sqlmap**, **testssl**, **MobSF** &amp; **Sigma**. <br>
+> **15 PRs · 10 projects · 9 merged** — including upstream merges into NSA **Ghidra**, **Prowler**, ProjectDiscovery **nuclei**, **sqlmap**, **testssl**, **MobSF** &amp; **Sigma**. <br>
 > Reaching across **mobile · web · cloud · reverse-engineering · TLS · WAF · SIEM** — patches where it counts.
 
 <br>
@@ -114,6 +114,7 @@
 | **nmap** | [#3379](https://github.com/nmap/nmap/pull/3379) | NATS server version detection (+ MongoDB mis-ID fix) | open |
 | **sqlmap** | [#6067](https://github.com/sqlmapproject/sqlmap/pull/6067) | CockroachDB error-based fingerprints (PostgreSQL fork) | open |
 | **OWASP CRS** | [#4655](https://github.com/coreruleset/coreruleset/pull/4655) | Decode URL-encoded payloads in header RCE rules | open |
+| **sensepost / objection** | [#807](https://github.com/sensepost/objection/pull/807) | Require Python >=3.11 (fixes tomllib import) | open |
 
 </div>
 
