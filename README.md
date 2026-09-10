@@ -1,5 +1,5 @@
 <!--
-  GitHub profile README for potato-20.  Updated 2026-06-05.
+  GitHub profile README for potato-20.  Updated 2026-09-10.
 -->
 
 <p align="center">
@@ -91,7 +91,7 @@
 <br>
 
 > **I don't just use security tools — I fix and extend them.** <br>
-> **15 PRs · 10 projects · 9 merged** — including upstream merges into NSA **Ghidra**, **Prowler**, ProjectDiscovery **nuclei**, **sqlmap**, **testssl**, **MobSF** &amp; **Sigma**. <br>
+> **15 PRs · 11 projects · 9 merged** — including upstream merges into NSA **Ghidra**, **Prowler**, ProjectDiscovery **nuclei**, **sqlmap**, **testssl**, **MobSF** &amp; **Sigma**. <br>
 > Reaching across **mobile · web · cloud · reverse-engineering · TLS · WAF · SIEM** — patches where it counts.
 
 <br>
@@ -106,7 +106,7 @@
 | **sqlmap** | [#6066](https://github.com/sqlmapproject/sqlmap/pull/6066) | Fix no-op `chardet` patch in `dirtyPatches()` | **merged ✓** |
 | **testssl.sh** | [#3049](https://github.com/testssl/testssl.sh/pull/3049) | Fix `--mx host:port` parsing + no-MX message | **merged ✓** |
 | **testssl.sh** | [#3050](https://github.com/testssl/testssl.sh/pull/3050) | Report additional modern security headers (INFO) | **merged ✓** |
-| **testssl.sh** | [#3060](https://github.com/testssl/testssl.sh/pull/3060) | HSTS preload-list check via hstspreload.org | **merged ✓** |
+| **testssl.sh** | [#3060](https://github.com/testssl/testssl.sh/pull/3060) → [#3071](https://github.com/testssl/testssl.sh/pull/3071) | HSTS preload-list check via hstspreload.org | **merged ✓** |
 | **MobSF** | [#2618](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2618) | Android WebView mixed-content detection rule | **merged ✓** |
 | **SigmaHQ / sigma** | [#6055](https://github.com/SigmaHQ/sigma/pull/6055) | Detect content-discovery tool User-Agents (ffuf/gobuster) | **merged ✓** |
 | **ReversecLabs / drozer** | [#500](https://github.com/ReversecLabs/drozer/pull/500) | Fix infinite loop in `fs.md5sum` / `fs.sha1sum` on Python 3 | open |
@@ -173,7 +173,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/stats.svg?v=13" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
+  <img src="assets/stats.svg?v=14" width="100%" alt="stats — commits, repos contributed, upstream OSS PRs"/>
 </p>
 
 <br>
